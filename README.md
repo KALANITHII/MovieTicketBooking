@@ -2,7 +2,7 @@ It is a movie ticket booking website with front-end only and back-end to be impl
 It is available in both dark & light mode.
 
 ## Demo
-https://kalanithimovieticketbooking.netlify.app/
+https://kala-movie-ticket-booking.netlify.app/
 
 # Glimpse of the Website
 ## Home page
