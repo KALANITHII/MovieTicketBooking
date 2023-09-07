@@ -1,4 +1,4 @@
-# MyShowz-Movie-ticket-booking-website
+![image](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/61fb7ed8-0fe2-4b13-8b8b-a2aedf326afb)# MyShowz-Movie-ticket-booking-website
 It is a movie ticket booking website with front-end only and back-end to be implemented.
 It is available in both dark & light mode.
 
@@ -13,7 +13,8 @@ https://kalanithimovieticketbooking.netlify.app/
 
 
 ## Movies Page
-![Home page in the light mode](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/ee639024-1780-4e15-aefb-e657f88d295f)
+![Home page in the light mode]![image](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/1a2a465c-cc93-4f33-ae47-087ba2b13be6)
+
 
 
 
