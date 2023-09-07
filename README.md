@@ -6,13 +6,14 @@ It is available in both dark & light mode.
 https://kalanithimovieticketbooking.netlify.app/
 
 # Glimpse of the Website
-## Home page in the dark mode
-![Home page in the dark mode](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/ee639024-1780-4e15-aefb-e657f88d295f)
+## Home page
+![Home page in the dark mode](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/7d298024-dfd7-4a0f-bc0d-6cfa7ae9dc06)
 
 
 
-## Home page in the light mode
-![Home page in the light mode](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/835d618a-4e71-4f69-a427-5269b070be43)
+
+## Movies Page
+![Home page in the light mode](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/ee639024-1780-4e15-aefb-e657f88d295f)
 
 
 
