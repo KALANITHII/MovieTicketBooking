@@ -12,17 +12,17 @@ https://kalanithimovieticketbooking.netlify.app/
 
 
 ## Home page in the light mode
-![Home page in the light mode]!(https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/835d618a-4e71-4f69-a427-5269b070be43)
+![Home page in the light mode](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/835d618a-4e71-4f69-a427-5269b070be43)
 
 
 
 ## Seat selection page 
-![Seat selection page ]!(https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/c11676b8-740c-4fbb-92e1-44186b8f0663)
+![Seat selection page ](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/c11676b8-740c-4fbb-92e1-44186b8f0663)
 
 
 
 ## SignIn-SignUp page in the dark mode
-![SignIn-SignUp page]!(https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/72430cdb-b29b-4f24-96cf-ccbe45f614cb)
+![SignIn-SignUp page](https://github.com/KALANITHII/MovieTicketBooking/assets/94750661/72430cdb-b29b-4f24-96cf-ccbe45f614cb)
 
 
 ## Credits
